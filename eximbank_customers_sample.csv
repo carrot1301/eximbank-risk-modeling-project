@@ -1,0 +1,211 @@
+customer_id,full_name,phone_raw,address_raw,city,province,gender,dob,segment,branch,source_campaign,created_date
+C0001,Tran Thi Tu,,"7 Nguyen Thi Minh Khai, P.2",Hai Phong,Can Tho,Male,1985-05-06,VIP,Can Tho - Ninh Kieu,Event,2024-04-12
+C0002,nguyen ngoc khanh,+84922713332,"138 Le Loi, P.7",Ho Chi Minh,Hai Phong,Female,2019-09-23,SME,Can Tho - Ninh Kieu,Branch referral,2024-09-27
+C0003,tran thi trang,0798834813,"156 Tran Hung Dao, P.10",Ha Noi,Ha Noi,Female,2015-09-30,VIP,Ha Noi - Hoan Kiem,Partnership,2024-03-12
+C0004,Pham Minh An,+84888409572,"227 Pham Van Dong, P.2",Da Nang,Ha Noi,Male,1998-09-09,SME,Can Tho - Ninh Kieu,Old customer list,2024-01-21
+C0005,Dang Minh Trang,,"120 Nguyen Thi Minh Khai, P.5",Hai Phong,TP.HCM,Male,1984-04-07,SME,Ha Noi - Hoan Kiem,Online form,2024-05-01
+C0006,hoang quang nam,,"51 Tran Hung Dao, P.5",Ha Noi,Hai Phong,Male,1995-02-09,SME,Da Nang - Hai Chau,Online form,2024-08-02
+C0007,Tran Minh Tu,+84308904077,"243 Nguyen Thi Minh Khai, P.2",Da Nang,Hai Phong,Female,2014-11-06,Retail,Can Tho - Ninh Kieu,Branch referral,2024-03-28
+C0008,hoang quang loan,0984 200 550,"18 Nguyen Trai, P.5",Ho Chi Minh,Hai Phong,Male,2013-05-30,SME,Da Nang - Hai Chau,Branch referral,2024-04-09
+C0009,Do Ngoc Phuc,0978104447,"104 Hai Ba Trung, P.1",Ha Noi,Ha Noi,Male,2005-10-10,VIP,HCM - Phu Nhuan,Old customer list,2024-05-31
+C0010,Le Hong Phuc,0980 880 650,"43 Ly Thuong Kiet, P.7",Can Tho,Ha Noi,Female,1985-02-04,Mass,HCM - Phu Nhuan,Old customer list,2024-05-29
+C0011,nguyen quang tu,,"189 Nguyen Thi Minh Khai, P.1",Da Nang,TP.HCM,Male,2002-01-06,VIP,Can Tho - Ninh Kieu,Partnership,2024-12-09
+C0012,Le Thi Quyen,,"21 Ly Thuong Kiet, P.15",Hai Phong,Hai Phong,Female,1996-10-26,SME,HCM - Phu Nhuan,Event,2024-07-10
+C0013,Pham Hong Khanh,,"55 Nguyen Thi Minh Khai, P.5",Ha Noi,Da Nang,Male,1986-03-26,Retail,Ha Noi - Hoan Kiem,Event,2024-10-03
+C0014,LE ANH QUYEN,0339-856-591,"30 Le Loi, P.15",Hai Phong,Ha Noi,Female,2016-09-09,SME,Can Tho - Ninh Kieu,Branch referral,2024-11-09
+C0015,VO HOAI TU,0749 804 207,"190 Pham Van Dong, P.10",Can Tho,Hai Phong,Male,2018-09-05,Mass,HCM - District 1,Branch referral,2024-09-09
+C0016,DO THI LOAN,0354039903,"91 Nguyen Thi Minh Khai, P.7",Hai Phong,Ha Noi,Male,2006-09-19,Retail,HCM - Phu Nhuan,Old customer list,2024-12-10
+C0017,nguyen ngoc loan,0388 827 188,"210 Pham Van Dong, P.5",Da Nang,Ha Noi,Male,1989-12-29,Mass,HCM - Phu Nhuan,Old customer list,2024-02-28
+C0018,vo hong binh,0535-683-082,"10 Le Loi, P.10",Can Tho,Da Nang,Female,1988-08-05,VIP,Can Tho - Ninh Kieu,Partnership,2024-06-18
+C0019,tran quang trang,0804586971,"243 Hai Ba Trung, P.10",Da Nang,TP.HCM,Female,2008-02-02,SME,Da Nang - Hai Chau,Event,2024-07-06
+C0020,Dang Hong Quyen,0716-371-548,"54 Ly Thuong Kiet, P.10",Hai Phong,Da Nang,Female,1983-07-05,VIP,Da Nang - Hai Chau,Branch referral,2024-09-27
+C0021,DO ANH NAM,0305 638 762,"7 Nguyen Trai, P.2",Can Tho,Hai Phong,Male,1991-03-21,VIP,Da Nang - Hai Chau,Partnership,2024-06-23
+C0022,pham quang phuc,+84526077141,"13 Nguyen Thi Minh Khai, P.2",Ho Chi Minh,Can Tho,Male,1988-03-10,VIP,Can Tho - Ninh Kieu,Partnership,2024-02-20
+C0023,vo anh quyen,+84585874226,"161 Dien Bien Phu, P.5",Can Tho,TP.HCM,Female,1986-06-17,Retail,Ha Noi - Hoan Kiem,Event,2024-02-24
+C0024,Vo Thanh Binh,+84813124340,"232 Nguyen Trai, P.10",Can Tho,Can Tho,Male,1987-03-05,SME,Ha Noi - Hoan Kiem,Old customer list,2024-11-15
+C0025,DANG THANH QUYEN,0884 243 677,"160 Nguyen Thi Minh Khai, P.1",Can Tho,Hai Phong,Male,1992-09-22,Mass,Da Nang - Hai Chau,Branch referral,2024-05-10
+C0026,bui ngoc an,+84932373782,"5 Nguyen Thi Minh Khai, P.1",Da Nang,Ha Noi,Male,2007-03-10,Mass,HCM - District 1,Branch referral,2024-11-02
+C0027,Pham Thi Nam,0916 526 716,"247 Cach Mang Thang 8, P.1",Hai Phong,TP.HCM,Female,2013-04-29,VIP,Da Nang - Hai Chau,Branch referral,2024-01-21
+C0028,TRAN HOAI BINH,0778619734,"130 Hai Ba Trung, P.1",Can Tho,Can Tho,Male,1997-10-03,VIP,Ha Noi - Hoan Kiem,Old customer list,2024-06-15
+C0029,LE QUANG NAM,0756 697 485,"213 Le Loi, P.5",Can Tho,Ha Noi,Female,2011-11-21,VIP,Ha Noi - Hoan Kiem,Online form,2024-03-29
+C0030,bui minh nam,0927 387 209,"185 Ly Thuong Kiet, P.7",Hai Phong,Ha Noi,Female,2006-01-29,VIP,Da Nang - Hai Chau,Online form,2024-01-14
+C0031,tran hong trang,0863-545-473,"79 Cach Mang Thang 8, P.2",Ho Chi Minh,Ha Noi,Female,2003-07-24,Mass,Can Tho - Ninh Kieu,Branch referral,2024-09-21
+C0032,pham hoai phuc,,"33 Cach Mang Thang 8, P.1",Ho Chi Minh,Hai Phong,Female,2002-04-08,Retail,Da Nang - Hai Chau,Online form,2024-02-22
+C0033,nguyen hong phuc,0941 094 840,"39 Cach Mang Thang 8, P.1",Ha Noi,TP.HCM,Female,2000-01-23,Retail,Can Tho - Ninh Kieu,Old customer list,2024-12-05
+C0034,BUI ANH TU,0993 667 922,"62 Tran Hung Dao, P.10",Ho Chi Minh,Ha Noi,Male,2016-05-29,VIP,Da Nang - Hai Chau,Partnership,2024-09-20
+C0035,Bui Hong An,+84322802275,"30 Nguyen Thi Minh Khai, P.2",Ha Noi,Da Nang,Male,1991-08-15,Mass,HCM - District 1,Branch referral,2024-02-04
+C0036,Hoang Hong Phuc,,"65 Nguyen Trai, P.1",Ha Noi,Hai Phong,Male,1993-10-14,SME,Can Tho - Ninh Kieu,Online form,2024-02-19
+C0037,LE ANH QUYEN,0742948944,"220 Tran Hung Dao, P.5",Can Tho,Can Tho,Female,1985-10-14,VIP,Can Tho - Ninh Kieu,Online form,2024-01-02
+C0038,bui van loan,,"93 Pham Van Dong, P.15",Can Tho,TP.HCM,Male,2019-09-22,SME,Can Tho - Ninh Kieu,Branch referral,2024-02-23
+C0039,Hoang Anh Phuc,+84906773042,"243 Le Loi, P.15",Ha Noi,Can Tho,Female,2004-11-11,SME,Da Nang - Hai Chau,Old customer list,2024-09-16
+C0040,BUI HOAI PHUC,,"69 Nguyen Trai, P.5",Da Nang,Hai Phong,Female,2001-10-22,Retail,Da Nang - Hai Chau,Partnership,2024-07-09
+C0041,BUI MINH LOAN,0873989238,"82 Pham Van Dong, P.15",Can Tho,Can Tho,Male,1983-06-07,VIP,HCM - District 1,Branch referral,2024-02-13
+C0042,do minh binh,0709-018-907,"160 Ly Thuong Kiet, P.15",Ho Chi Minh,Da Nang,Female,2010-11-04,SME,Da Nang - Hai Chau,Partnership,2024-07-20
+C0043,NGUYEN VAN TRANG,0362-209-771,"232 Nguyen Trai, P.1",Da Nang,TP.HCM,Female,2018-11-12,SME,Ha Noi - Hoan Kiem,Old customer list,2024-09-26
+C0044,le hoai quyen,0357 108 629,"119 Cach Mang Thang 8, P.7",Da Nang,TP.HCM,Female,2017-11-17,SME,Can Tho - Ninh Kieu,Branch referral,2024-09-27
+C0045,TRAN ANH LOAN,,"92 Cach Mang Thang 8, P.15",Da Nang,TP.HCM,Female,2008-11-28,SME,HCM - District 1,Partnership,2024-08-02
+C0046,Nguyen Anh Tu,0963666768,"80 Pham Van Dong, P.1",Hai Phong,Da Nang,Male,2000-08-14,Mass,Ha Noi - Hoan Kiem,Event,2024-07-08
+C0047,Dang Ngoc Trang,0778-352-199,"206 Le Loi, P.7",Ho Chi Minh,Ha Noi,Male,2001-10-12,VIP,Can Tho - Ninh Kieu,Event,2024-07-31
+C0048,tran quang an,+84354665891,"7 Nguyen Thi Minh Khai, P.5",Hai Phong,Ha Noi,Male,2006-05-05,VIP,Ha Noi - Hoan Kiem,Old customer list,2024-08-24
+C0049,Tran Ngoc An,+84534081467,"151 Tran Hung Dao, P.7",Ho Chi Minh,Can Tho,Female,1996-05-15,SME,HCM - District 1,Event,2024-02-22
+C0050,Pham Anh Phuc,+84980659331,"24 Dien Bien Phu, P.15",Hai Phong,TP.HCM,Male,1996-04-17,SME,HCM - Phu Nhuan,Branch referral,2024-08-04
+C0051,Pham Van Quyen,,"65 Tran Hung Dao, P.1",Ho Chi Minh,Ha Noi,Male,2006-06-16,SME,HCM - Phu Nhuan,Partnership,2024-07-06
+C0052,vo thi nam,0507 574 751,"243 Nguyen Trai, P.15",Hai Phong,Da Nang,Female,1997-06-08,Mass,HCM - District 1,Old customer list,2024-02-10
+C0053,dang quang binh,+84774831165,"153 Nguyen Thi Minh Khai, P.5",Can Tho,Hai Phong,Female,2016-01-20,Mass,HCM - District 1,Partnership,2024-01-15
+C0054,Pham Quang Phuc,0848373329,"24 Le Loi, P.1",Can Tho,TP.HCM,Female,2004-11-28,Retail,Can Tho - Ninh Kieu,Online form,2024-03-05
+C0055,DO THANH LOAN,0713678796,"148 Nguyen Thi Minh Khai, P.2",Ha Noi,Can Tho,Male,1997-12-12,Mass,Ha Noi - Hoan Kiem,Partnership,2024-01-09
+C0056,VO VAN TU,0724576656,"47 Cach Mang Thang 8, P.15",Da Nang,Da Nang,Female,1988-07-16,Mass,HCM - Phu Nhuan,Branch referral,2024-05-08
+C0057,DANG VAN NAM,,"22 Nguyen Trai, P.2",Ha Noi,Hai Phong,Male,2009-07-06,Mass,Ha Noi - Hoan Kiem,Old customer list,2024-05-15
+C0058,dang anh phuc,0927 142 646,"102 Nguyen Trai, P.1",Ha Noi,Da Nang,Male,1997-05-21,Retail,Ha Noi - Hoan Kiem,Event,2024-03-03
+C0059,vo van an,+84971375880,"5 Pham Van Dong, P.1",Da Nang,Hai Phong,Female,1984-01-23,VIP,Da Nang - Hai Chau,Event,2024-03-21
+C0060,tran quang an,,"21 Ly Thuong Kiet, P.5",Da Nang,Ha Noi,Female,2017-10-11,Retail,HCM - District 1,Partnership,2024-06-11
+C0061,Tran Thanh Quyen,0593 788 211,"195 Le Loi, P.2",Can Tho,Can Tho,Female,2017-09-01,SME,Ha Noi - Hoan Kiem,Branch referral,2024-10-15
+C0062,bui van phuc,0767530403,"166 Le Loi, P.10",Hai Phong,Hai Phong,Female,1992-09-27,VIP,Can Tho - Ninh Kieu,Partnership,2024-09-17
+C0063,nguyen anh trang,0365948890,"64 Pham Van Dong, P.7",Hai Phong,Hai Phong,Male,1999-12-03,SME,Ha Noi - Hoan Kiem,Event,2024-08-18
+C0064,DANG QUANG LOAN,0557 600 627,"86 Le Loi, P.10",Ha Noi,Da Nang,Female,2000-03-06,VIP,HCM - Phu Nhuan,Partnership,2024-01-28
+C0065,tran hong quyen,,"93 Nguyen Trai, P.5",Da Nang,Ha Noi,Male,2018-10-07,SME,Da Nang - Hai Chau,Branch referral,2024-07-19
+C0066,Pham Ngoc Nam,0527 557 568,"153 Ly Thuong Kiet, P.2",Ha Noi,Ha Noi,Male,2002-09-29,VIP,HCM - District 1,Old customer list,2024-02-02
+C0067,VO HOAI PHUC,,"113 Pham Van Dong, P.5",Can Tho,Hai Phong,Female,2007-08-15,Retail,HCM - Phu Nhuan,Partnership,2024-03-02
+C0068,LE HONG AN,,"38 Ly Thuong Kiet, P.1",Ha Noi,Can Tho,Female,1990-06-20,Mass,Da Nang - Hai Chau,Online form,2024-04-08
+C0069,Dang Thanh Loan,0930-230-731,"235 Pham Van Dong, P.15",Ha Noi,Can Tho,Female,2013-01-04,Mass,HCM - District 1,Online form,2024-12-25
+C0070,HOANG HOAI NAM,+84596472126,"17 Le Loi, P.7",Hai Phong,Hai Phong,Male,1996-10-31,Retail,HCM - Phu Nhuan,Event,2024-02-04
+C0071,Dang Thi Loan,,"6 Ly Thuong Kiet, P.7",Ho Chi Minh,Can Tho,Female,2005-03-12,SME,HCM - District 1,Event,2024-08-14
+C0072,TRAN MINH TRANG,+84861571336,"162 Tran Hung Dao, P.2",Ho Chi Minh,Can Tho,Male,1993-07-03,SME,HCM - Phu Nhuan,Online form,2024-05-10
+C0073,pham thi loan,0759-527-137,"32 Hai Ba Trung, P.7",Can Tho,Can Tho,Female,2003-03-18,SME,HCM - Phu Nhuan,Old customer list,2024-01-05
+C0074,bui minh quyen,0787-068-530,"115 Ly Thuong Kiet, P.2",Can Tho,Da Nang,Female,2017-09-20,Mass,Ha Noi - Hoan Kiem,Partnership,2024-09-11
+C0075,Dang Hong An,0864571086,"33 Le Loi, P.2",Da Nang,Da Nang,Female,2001-12-26,Mass,Can Tho - Ninh Kieu,Branch referral,2024-12-24
+C0076,bui minh loan,,"100 Nguyen Thi Minh Khai, P.1",Da Nang,Da Nang,Female,1997-01-17,Retail,Can Tho - Ninh Kieu,Event,2024-07-25
+C0077,Bui Hoai Binh,0784840683,"141 Nguyen Thi Minh Khai, P.5",Da Nang,Ha Noi,Male,2004-02-17,SME,Can Tho - Ninh Kieu,Branch referral,2024-12-11
+C0078,Tran Hoai Nam,+84770538560,"184 Pham Van Dong, P.10",Can Tho,Can Tho,Male,1985-05-09,Retail,Ha Noi - Hoan Kiem,Online form,2024-06-27
+C0079,bui anh quyen,,"40 Cach Mang Thang 8, P.2",Ha Noi,Da Nang,Male,2003-04-10,SME,Can Tho - Ninh Kieu,Event,2024-08-18
+C0080,TRAN HONG TRANG,,"185 Hai Ba Trung, P.10",Ho Chi Minh,TP.HCM,Male,1996-12-30,Mass,Can Tho - Ninh Kieu,Event,2024-02-21
+C0081,pham quang an,0985 632 844,"113 Ly Thuong Kiet, P.7",Can Tho,Ha Noi,Female,1999-06-21,Retail,Ha Noi - Hoan Kiem,Event,2024-04-05
+C0082,vo quang nam,+84551214109,"64 Tran Hung Dao, P.5",Hai Phong,Da Nang,Male,2003-09-23,Retail,Da Nang - Hai Chau,Partnership,2024-08-09
+C0083,bui anh tu,0809-592-304,"138 Nguyen Trai, P.1",Can Tho,Ha Noi,Female,2001-11-10,SME,Da Nang - Hai Chau,Event,2024-08-18
+C0084,NGUYEN QUANG AN,0553234586,"33 Le Loi, P.7",Da Nang,Da Nang,Female,1991-11-13,Retail,HCM - Phu Nhuan,Partnership,2024-05-22
+C0085,Do Quang Quyen,0501-344-653,"42 Ly Thuong Kiet, P.10",Da Nang,Hai Phong,Female,1985-11-21,VIP,Can Tho - Ninh Kieu,Event,2024-01-29
+C0086,bui thi loan,,"59 Nguyen Trai, P.10",Can Tho,Ha Noi,Female,2019-11-15,Retail,HCM - Phu Nhuan,Online form,2024-01-13
+C0087,tran hoai an,0931 647 987,"133 Dien Bien Phu, P.10",Da Nang,Can Tho,Female,2010-02-18,SME,HCM - Phu Nhuan,Old customer list,2024-11-22
+C0088,do minh quyen,0768 682 492,"242 Cach Mang Thang 8, P.5",Ha Noi,Can Tho,Female,1991-08-20,VIP,Ha Noi - Hoan Kiem,Partnership,2024-08-30
+C0089,HOANG HONG BINH,0963-989-822,"237 Pham Van Dong, P.15",Da Nang,Can Tho,Male,2012-08-09,Retail,Can Tho - Ninh Kieu,Event,2024-10-10
+C0090,Do Hong Nam,0865265604,"175 Tran Hung Dao, P.1",Hai Phong,Ha Noi,Female,2009-10-16,VIP,Da Nang - Hai Chau,Branch referral,2024-06-18
+C0091,HOANG MINH TU,0807 627 809,"240 Nguyen Trai, P.7",Can Tho,Ha Noi,Female,2018-10-23,Mass,HCM - District 1,Event,2024-05-13
+C0092,tran minh tu,+84395498411,"166 Cach Mang Thang 8, P.15",Ha Noi,TP.HCM,Female,1992-12-02,SME,Can Tho - Ninh Kieu,Branch referral,2024-01-28
+C0093,LE QUANG KHANH,0834-094-903,"245 Hai Ba Trung, P.5",Hai Phong,Hai Phong,Male,2010-11-04,SME,Ha Noi - Hoan Kiem,Branch referral,2024-12-05
+C0094,nguyen van phuc,,"57 Dien Bien Phu, P.2",Can Tho,Ha Noi,Female,1987-07-18,SME,Da Nang - Hai Chau,Partnership,2024-11-26
+C0095,Bui Thanh Trang,,"52 Nguyen Thi Minh Khai, P.2",Ha Noi,Da Nang,Female,1998-04-20,Mass,HCM - Phu Nhuan,Partnership,2024-12-13
+C0096,bui van quyen,0884-540-487,"210 Nguyen Trai, P.15",Ha Noi,Hai Phong,Male,2011-07-18,Mass,Da Nang - Hai Chau,Event,2024-08-18
+C0097,Tran Thanh An,+84794211679,"115 Ly Thuong Kiet, P.7",Ho Chi Minh,Hai Phong,Male,1986-07-26,SME,HCM - District 1,Branch referral,2024-08-12
+C0098,Do Quang Quyen,0372 002 655,"118 Hai Ba Trung, P.2",Da Nang,Ha Noi,Male,2012-09-28,Mass,Da Nang - Hai Chau,Partnership,2024-04-30
+C0099,Nguyen Hoai Trang,0310570742,"36 Nguyen Thi Minh Khai, P.5",Ha Noi,Hai Phong,Female,2008-12-05,SME,HCM - Phu Nhuan,Event,2024-08-20
+C0100,le thanh trang,+84730989644,"202 Nguyen Thi Minh Khai, P.5",Can Tho,Can Tho,Male,2007-05-12,SME,Da Nang - Hai Chau,Branch referral,2024-12-24
+C0101,Do Anh Trang,0337-895-951,"53 Hai Ba Trung, P.15",Ho Chi Minh,Can Tho,Female,1995-01-27,Mass,Can Tho - Ninh Kieu,Branch referral,2024-05-16
+C0102,NGUYEN HONG KHANH,0760-085-622,"245 Nguyen Trai, P.2",Ha Noi,TP.HCM,Female,2018-07-03,Retail,Can Tho - Ninh Kieu,Branch referral,2024-06-13
+C0103,dang hoai quyen,0873-532-540,"235 Dien Bien Phu, P.5",Da Nang,Can Tho,Male,1988-06-17,Retail,HCM - Phu Nhuan,Online form,2024-05-31
+C0104,hoang thanh khanh,+84813384662,"118 Tran Hung Dao, P.15",Da Nang,Ha Noi,Male,2014-11-07,VIP,HCM - Phu Nhuan,Partnership,2024-11-10
+C0105,Nguyen Thanh An,+84596748270,"96 Nguyen Trai, P.10",Hai Phong,Can Tho,Female,1987-01-31,Mass,HCM - District 1,Partnership,2024-06-08
+C0106,Do Quang An,0952908689,"135 Tran Hung Dao, P.2",Ha Noi,Hai Phong,Female,1993-04-17,SME,Ha Noi - Hoan Kiem,Old customer list,2024-08-20
+C0107,tran minh khanh,+84959268687,"98 Ly Thuong Kiet, P.10",Can Tho,TP.HCM,Male,1988-01-24,Retail,HCM - District 1,Old customer list,2024-04-22
+C0108,DANG MINH BINH,,"145 Nguyen Trai, P.2",Da Nang,TP.HCM,Male,1986-07-11,Retail,Da Nang - Hai Chau,Online form,2024-02-21
+C0109,HOANG NGOC TRANG,0583-837-197,"14 Le Loi, P.7",Ha Noi,TP.HCM,Female,2014-11-19,VIP,Ha Noi - Hoan Kiem,Online form,2024-10-21
+C0110,Hoang Anh Phuc,0939466067,"69 Tran Hung Dao, P.7",Ha Noi,Can Tho,Female,1987-06-21,SME,HCM - District 1,Online form,2024-04-22
+C0111,nguyen hong phuc,0571045510,"153 Hai Ba Trung, P.7",Ho Chi Minh,Da Nang,Female,2013-08-18,VIP,HCM - District 1,Partnership,2024-04-22
+C0112,PHAM THANH NAM,0931-340-444,"65 Dien Bien Phu, P.15",Can Tho,Hai Phong,Male,1984-11-25,VIP,HCM - District 1,Branch referral,2024-03-21
+C0113,hoang thi khanh,0783-844-865,"155 Dien Bien Phu, P.7",Da Nang,Ha Noi,Female,2016-08-20,SME,Ha Noi - Hoan Kiem,Old customer list,2024-04-22
+C0114,pham minh khanh,0883 155 565,"113 Cach Mang Thang 8, P.15",Ho Chi Minh,Can Tho,Female,1985-04-30,Retail,Ha Noi - Hoan Kiem,Branch referral,2024-05-09
+C0115,hoang ngoc khanh,,"153 Le Loi, P.1",Ha Noi,Da Nang,Male,2003-03-25,Mass,Can Tho - Ninh Kieu,Old customer list,2024-08-11
+C0116,Vo Quang Binh,,"39 Hai Ba Trung, P.1",Can Tho,TP.HCM,Female,1997-05-12,VIP,HCM - District 1,Online form,2024-05-05
+C0117,le minh tu,0942444633,"218 Hai Ba Trung, P.15",Ho Chi Minh,Ha Noi,Male,1987-08-31,Retail,Can Tho - Ninh Kieu,Branch referral,2024-02-22
+C0118,vo thanh khanh,+84524164061,"100 Nguyen Trai, P.15",Ha Noi,Ha Noi,Female,1998-11-05,Mass,Can Tho - Ninh Kieu,Online form,2024-08-05
+C0119,do ngoc loan,0911-649-333,"91 Pham Van Dong, P.10",Ha Noi,Da Nang,Male,1998-02-22,Retail,Ha Noi - Hoan Kiem,Online form,2024-07-16
+C0120,Pham Hong Binh,,"43 Pham Van Dong, P.5",Ha Noi,Ha Noi,Female,1996-06-28,VIP,Can Tho - Ninh Kieu,Online form,2024-09-03
+C0121,Vo Thi Phuc,0313564474,"145 Nguyen Trai, P.2",Da Nang,TP.HCM,Female,2014-05-01,Retail,Can Tho - Ninh Kieu,Event,2024-07-21
+C0122,LE ANH PHUC,,"56 Ly Thuong Kiet, P.1",Ha Noi,Da Nang,Male,2017-09-23,VIP,Ha Noi - Hoan Kiem,Event,2024-05-02
+C0123,Tran Anh Binh,0327686467,"146 Hai Ba Trung, P.10",Da Nang,Hai Phong,Male,1995-01-03,SME,Ha Noi - Hoan Kiem,Event,2024-09-11
+C0124,Hoang Thanh Binh,0797 998 182,"195 Ly Thuong Kiet, P.7",Ha Noi,Hai Phong,Female,2004-11-26,VIP,Da Nang - Hai Chau,Old customer list,2024-10-06
+C0125,TRAN VAN KHANH,+84976844588,"163 Hai Ba Trung, P.1",Hai Phong,Can Tho,Male,1983-07-13,VIP,HCM - Phu Nhuan,Old customer list,2024-04-07
+C0126,hoang minh tu,0851878706,"32 Tran Hung Dao, P.7",Can Tho,TP.HCM,Female,2000-03-15,Retail,HCM - Phu Nhuan,Event,2024-08-27
+C0127,LE HONG BINH,0830660677,"181 Le Loi, P.1",Ha Noi,Can Tho,Male,2014-05-18,Retail,Can Tho - Ninh Kieu,Branch referral,2024-04-06
+C0128,Do Anh An,0968941037,"81 Hai Ba Trung, P.5",Ha Noi,Can Tho,Male,1994-09-18,Retail,HCM - District 1,Partnership,2024-05-03
+C0129,nguyen ngoc phuc,,"187 Ly Thuong Kiet, P.5",Can Tho,Da Nang,Male,1989-11-12,Retail,Ha Noi - Hoan Kiem,Online form,2024-11-21
+C0130,PHAM THANH TU,+84308826136,"99 Le Loi, P.2",Can Tho,Hai Phong,Male,2010-05-01,Mass,Ha Noi - Hoan Kiem,Event,2024-12-14
+C0131,le quang khanh,+84951490502,"130 Cach Mang Thang 8, P.15",Hai Phong,Can Tho,Female,1990-09-08,VIP,HCM - District 1,Partnership,2024-05-27
+C0132,Do Ngoc Tu,0935-285-368,"179 Ly Thuong Kiet, P.15",Ha Noi,TP.HCM,Male,1988-06-05,Mass,Da Nang - Hai Chau,Online form,2024-12-11
+C0133,BUI THI TU,0777 177 195,"96 Tran Hung Dao, P.15",Da Nang,TP.HCM,Male,2014-03-26,SME,Da Nang - Hai Chau,Event,2024-05-26
+C0134,DO VAN TU,,"173 Le Loi, P.2",Hai Phong,TP.HCM,Male,1987-09-27,Mass,HCM - Phu Nhuan,Online form,2024-12-17
+C0135,Bui Minh Khanh,0719-087-622,"212 Le Loi, P.10",Da Nang,TP.HCM,Male,2006-10-03,Retail,HCM - Phu Nhuan,Partnership,2024-11-03
+C0136,nguyen quang binh,0587 304 327,"119 Hai Ba Trung, P.10",Can Tho,Ha Noi,Male,2001-04-26,Retail,HCM - District 1,Old customer list,2024-05-07
+C0137,nguyen hoai quyen,,"61 Ly Thuong Kiet, P.7",Ho Chi Minh,Ha Noi,Female,2013-05-30,Mass,HCM - District 1,Branch referral,2024-12-03
+C0138,do quang loan,0390 018 054,"75 Cach Mang Thang 8, P.5",Can Tho,Da Nang,Female,1987-12-04,VIP,Ha Noi - Hoan Kiem,Branch referral,2024-05-08
+C0139,TRAN HOAI NAM,0811-431-374,"219 Le Loi, P.1",Ha Noi,Da Nang,Male,1998-02-21,Retail,Ha Noi - Hoan Kiem,Branch referral,2024-05-30
+C0140,tran hoai loan,0356290447,"119 Le Loi, P.2",Ho Chi Minh,TP.HCM,Male,1983-09-16,Retail,HCM - Phu Nhuan,Branch referral,2024-10-24
+C0141,DANG MINH BINH,0759091680,"11 Pham Van Dong, P.1",Ha Noi,Hai Phong,Female,2000-03-15,VIP,Da Nang - Hai Chau,Online form,2024-09-08
+C0142,dang quang nam,,"123 Nguyen Trai, P.1",Da Nang,Can Tho,Male,2007-02-15,VIP,HCM - Phu Nhuan,Partnership,2024-12-11
+C0143,pham thanh an,,"57 Nguyen Trai, P.5",Ho Chi Minh,Can Tho,Female,2019-01-16,Retail,HCM - Phu Nhuan,Online form,2024-02-29
+C0144,PHAM HOAI TU,0389 092 873,"61 Hai Ba Trung, P.15",Da Nang,Hai Phong,Male,1997-11-02,SME,Can Tho - Ninh Kieu,Partnership,2024-01-02
+C0145,LE HOAI PHUC,0334 022 509,"88 Tran Hung Dao, P.5",Ho Chi Minh,TP.HCM,Male,2015-08-12,Retail,HCM - District 1,Partnership,2024-09-10
+C0146,VO VAN LOAN,0893-131-197,"45 Nguyen Thi Minh Khai, P.15",Hai Phong,Da Nang,Male,2019-11-15,Retail,Da Nang - Hai Chau,Event,2024-02-06
+C0147,HOANG NGOC NAM,0507 587 513,"164 Le Loi, P.7",Ha Noi,Da Nang,Male,2003-04-02,Retail,Ha Noi - Hoan Kiem,Event,2024-01-09
+C0148,le van loan,0802 637 704,"227 Ly Thuong Kiet, P.7",Can Tho,Da Nang,Female,2010-01-09,Mass,Da Nang - Hai Chau,Partnership,2024-04-08
+C0149,Pham Ngoc Phuc,,"242 Le Loi, P.5",Hai Phong,Hai Phong,Female,1989-03-01,Mass,Da Nang - Hai Chau,Branch referral,2024-10-30
+C0150,Dang Ngoc An,0939459562,"101 Nguyen Thi Minh Khai, P.7",Ha Noi,TP.HCM,Female,1995-04-23,Mass,Da Nang - Hai Chau,Online form,2024-05-10
+C0151,Hoang Anh Trang,0701208334,"165 Nguyen Thi Minh Khai, P.7",Ha Noi,Da Nang,Female,1999-12-16,SME,HCM - Phu Nhuan,Old customer list,2024-05-31
+C0152,nguyen hong phuc,,"59 Nguyen Thi Minh Khai, P.1",Can Tho,Hai Phong,Female,2010-01-23,VIP,Can Tho - Ninh Kieu,Branch referral,2024-04-29
+C0153,bui hong binh,0897 598 661,"243 Tran Hung Dao, P.2",Ha Noi,Ha Noi,Male,2018-03-28,VIP,HCM - District 1,Old customer list,2024-04-25
+C0154,pham ngoc tu,,"151 Nguyen Thi Minh Khai, P.7",Ho Chi Minh,Can Tho,Male,1998-02-26,Retail,Can Tho - Ninh Kieu,Partnership,2024-04-22
+C0155,tran van binh,0888 826 541,"159 Ly Thuong Kiet, P.1",Can Tho,Da Nang,Male,2016-02-28,Mass,Da Nang - Hai Chau,Event,2024-04-13
+C0156,vo thi loan,0738-869-237,"187 Ly Thuong Kiet, P.10",Ho Chi Minh,Ha Noi,Female,2014-02-18,Retail,Da Nang - Hai Chau,Old customer list,2024-09-10
+C0157,DO MINH AN,0370747551,"64 Nguyen Trai, P.7",Ho Chi Minh,Da Nang,Male,1989-01-05,SME,Ha Noi - Hoan Kiem,Old customer list,2024-04-08
+C0158,DO QUANG BINH,0703518531,"73 Nguyen Trai, P.7",Ho Chi Minh,Ha Noi,Male,1991-02-05,Retail,HCM - Phu Nhuan,Branch referral,2024-12-14
+C0159,Hoang Quang Quyen,0589-641-182,"183 Cach Mang Thang 8, P.7",Can Tho,Da Nang,Female,2015-10-05,SME,HCM - Phu Nhuan,Old customer list,2024-12-03
+C0160,HOANG THANH KHANH,+84915683662,"17 Hai Ba Trung, P.5",Da Nang,Da Nang,Female,2014-04-10,SME,HCM - Phu Nhuan,Branch referral,2024-11-05
+C0161,DO HOAI AN,,"182 Dien Bien Phu, P.5",Ha Noi,Hai Phong,Female,1985-08-10,SME,Can Tho - Ninh Kieu,Event,2024-07-26
+C0162,le thanh nam,0901 287 163,"91 Dien Bien Phu, P.15",Da Nang,Can Tho,Female,2016-07-21,SME,Ha Noi - Hoan Kiem,Partnership,2024-06-17
+C0163,hoang anh binh,0506-564-116,"106 Nguyen Trai, P.2",Ha Noi,Ha Noi,Female,1998-08-05,VIP,Can Tho - Ninh Kieu,Old customer list,2024-06-09
+C0164,Le Minh Nam,+84346160271,"202 Le Loi, P.2",Hai Phong,Can Tho,Female,1995-04-17,VIP,Da Nang - Hai Chau,Old customer list,2024-10-15
+C0165,DANG THI AN,0313 038 166,"178 Hai Ba Trung, P.5",Ha Noi,TP.HCM,Female,1996-06-08,SME,HCM - Phu Nhuan,Online form,2024-10-03
+C0166,nguyen hong tu,0375 389 393,"243 Ly Thuong Kiet, P.1",Ha Noi,Ha Noi,Male,1986-04-29,Retail,HCM - District 1,Partnership,2024-05-14
+C0167,do ngoc binh,0977367650,"13 Le Loi, P.7",Can Tho,Can Tho,Male,2013-12-01,SME,Da Nang - Hai Chau,Branch referral,2024-05-07
+C0168,pham thi tu,0966-261-817,"30 Le Loi, P.7",Ha Noi,Hai Phong,Male,1995-06-18,SME,Can Tho - Ninh Kieu,Branch referral,2024-06-24
+C0169,Vo Quang Tu,+84504293069,"39 Le Loi, P.10",Ho Chi Minh,TP.HCM,Female,2001-11-11,Retail,Da Nang - Hai Chau,Event,2024-01-22
+C0170,Hoang Anh An,0988836418,"219 Tran Hung Dao, P.15",Ha Noi,Da Nang,Female,1992-05-25,VIP,Can Tho - Ninh Kieu,Event,2024-06-06
+C0171,Tran Minh Loan,0314486448,"34 Nguyen Trai, P.2",Ho Chi Minh,Can Tho,Female,2012-03-22,VIP,HCM - Phu Nhuan,Partnership,2024-02-20
+C0172,DANG MINH AN,0787844840,"181 Nguyen Thi Minh Khai, P.15",Hai Phong,Hai Phong,Male,1992-03-04,SME,Can Tho - Ninh Kieu,Partnership,2024-09-20
+C0173,tran quang trang,,"218 Pham Van Dong, P.7",Ha Noi,TP.HCM,Female,1983-08-10,SME,HCM - Phu Nhuan,Event,2024-01-27
+C0174,Hoang Thi Quyen,0753804504,"128 Nguyen Trai, P.1",Can Tho,Can Tho,Male,1996-05-21,Mass,HCM - District 1,Partnership,2024-10-03
+C0175,Hoang Thanh Quyen,+84564388837,"184 Hai Ba Trung, P.15",Can Tho,TP.HCM,Male,2002-03-20,Retail,HCM - District 1,Event,2024-04-06
+C0176,VO HONG QUYEN,0331 848 742,"31 Ly Thuong Kiet, P.2",Can Tho,Ha Noi,Female,2007-08-26,Mass,Da Nang - Hai Chau,Online form,2024-11-12
+C0177,TRAN ANH PHUC,0555 907 545,"178 Tran Hung Dao, P.15",Ha Noi,TP.HCM,Female,2004-01-10,SME,Can Tho - Ninh Kieu,Old customer list,2024-05-26
+C0178,dang hoai tu,0599-414-772,"183 Nguyen Thi Minh Khai, P.15",Ha Noi,Ha Noi,Male,2019-12-17,SME,Ha Noi - Hoan Kiem,Branch referral,2024-02-04
+C0179,LE THANH QUYEN,0567-755-976,"225 Ly Thuong Kiet, P.1",Hai Phong,TP.HCM,Male,2004-01-06,VIP,HCM - Phu Nhuan,Online form,2024-02-18
+C0180,Nguyen Hoai Tu,0896107253,"158 Nguyen Thi Minh Khai, P.2",Hai Phong,Can Tho,Male,2003-01-31,SME,HCM - District 1,Old customer list,2024-01-17
+C0181,DANG QUANG LOAN,,"140 Dien Bien Phu, P.15",Ha Noi,Da Nang,Female,1989-01-10,Retail,HCM - District 1,Branch referral,2024-08-07
+C0182,le thanh binh,0902 218 049,"238 Hai Ba Trung, P.10",Ho Chi Minh,Hai Phong,Female,1992-06-02,VIP,Can Tho - Ninh Kieu,Partnership,2024-02-15
+C0183,VO VAN LOAN,0321-054-502,"85 Hai Ba Trung, P.5",Ha Noi,Hai Phong,Female,1985-11-22,Mass,HCM - District 1,Event,2024-01-06
+C0184,Bui Hoai Trang,,"206 Nguyen Thi Minh Khai, P.7",Can Tho,TP.HCM,Female,1992-05-09,Retail,Ha Noi - Hoan Kiem,Partnership,2024-10-06
+C0185,TRAN VAN NAM,0856262682,"192 Tran Hung Dao, P.1",Can Tho,Da Nang,Male,2017-02-15,Mass,HCM - District 1,Online form,2024-10-28
+C0186,Le Hong Quyen,0552236406,"165 Le Loi, P.15",Hai Phong,TP.HCM,Male,1991-09-02,SME,Can Tho - Ninh Kieu,Online form,2024-04-04
+C0187,hoang hong binh,0574-364-513,"246 Tran Hung Dao, P.5",Da Nang,TP.HCM,Male,1996-12-02,Mass,HCM - District 1,Online form,2024-07-06
+C0188,Dang Thanh Quyen,,"214 Cach Mang Thang 8, P.2",Ho Chi Minh,Ha Noi,Male,1983-07-06,VIP,Can Tho - Ninh Kieu,Online form,2024-04-25
+C0189,Hoang Van Tu,0315-936-220,"125 Pham Van Dong, P.5",Hai Phong,Da Nang,Male,1985-09-03,SME,Ha Noi - Hoan Kiem,Old customer list,2024-09-09
+C0190,Le Thi Loan,0877-623-634,"199 Cach Mang Thang 8, P.7",Hai Phong,TP.HCM,Male,1992-02-06,Mass,Ha Noi - Hoan Kiem,Branch referral,2024-06-09
+C0191,DO HOAI TU,0580 005 054,"233 Nguyen Trai, P.10",Da Nang,Hai Phong,Female,2005-10-07,Retail,Ha Noi - Hoan Kiem,Old customer list,2024-11-18
+C0192,pham hong nam,0550 302 996,"115 Tran Hung Dao, P.2",Hai Phong,Hai Phong,Male,1987-12-18,VIP,Ha Noi - Hoan Kiem,Online form,2024-01-18
+C0193,Pham Anh Trang,0922-657-398,"27 Nguyen Thi Minh Khai, P.15",Da Nang,Da Nang,Male,2001-05-11,VIP,Da Nang - Hai Chau,Event,2024-08-10
+C0194,tran thanh tu,+84392483780,"43 Dien Bien Phu, P.1",Hai Phong,Da Nang,Male,1997-11-21,Retail,HCM - Phu Nhuan,Branch referral,2024-02-27
+C0195,vo van trang,0987 442 180,"147 Tran Hung Dao, P.2",Hai Phong,TP.HCM,Male,1990-06-22,Mass,HCM - Phu Nhuan,Event,2024-12-25
+C0196,LE THANH KHANH,+84896878926,"44 Dien Bien Phu, P.7",Hai Phong,Ha Noi,Male,2018-05-06,SME,HCM - Phu Nhuan,Event,2024-10-06
+C0197,bui van trang,,"154 Nguyen Trai, P.10",Hai Phong,TP.HCM,Male,1993-12-24,VIP,HCM - Phu Nhuan,Partnership,2024-10-14
+C0198,DO THI KHANH,0548649473,"109 Tran Hung Dao, P.5",Can Tho,Ha Noi,Male,1987-08-10,SME,Can Tho - Ninh Kieu,Partnership,2024-12-07
+C0199,Dang Hong Trang,0777510663,"40 Ly Thuong Kiet, P.15",Hai Phong,Da Nang,Female,1983-05-31,VIP,Can Tho - Ninh Kieu,Event,2024-05-06
+C0200,hoang quang trang,0855 154 957,"219 Le Loi, P.15",Ha Noi,Can Tho,Male,2014-02-10,Mass,HCM - Phu Nhuan,Partnership,2024-09-29
+C0096_DUP,bui van quyen,0884-540-487,"210 Nguyen Trai, P.15",Ha Noi,Hai Phong,Male,2011-07-18,Mass,Da Nang - Hai Chau,Event,2024-08-18
+C0016_DUP,DO THI LOAN,0354039903,"91 Nguyen Thi Minh Khai, P.7",Hai Phong,Ha Noi,Male,2006-09-19,Retail,HCM - Phu Nhuan,Old customer list,2024-12-10
+C0031_DUP,tran hong trang,0863-545-473,"79 Cach Mang Thang 8, P.2",Ho Chi Minh,Ha Noi,Female,2003-07-24,Mass,Can Tho - Ninh Kieu,Branch referral,2024-09-21
+C0159_DUP,Hoang Quang Quyen,0589-641-182,"183 Cach Mang Thang 8, P.7",Can Tho,Da Nang,Female,2015-10-05,SME,HCM - Phu Nhuan,Old customer list,2024-12-03
+C0129_DUP,nguyen ngoc phuc,,"187 Ly Thuong Kiet, P.5",Can Tho,Da Nang,Male,1989-11-12,Retail,Ha Noi - Hoan Kiem,Online form,2024-11-21
+C0116_DUP,Vo Quang Binh,,"39 Hai Ba Trung, P.1",Can Tho,TP.HCM,Female,1997-05-12,VIP,HCM - District 1,Online form,2024-05-05
+C0070_DUP,HOANG HOAI NAM,+84596472126,"17 Le Loi, P.7",Hai Phong,Hai Phong,Male,1996-10-31,Retail,HCM - Phu Nhuan,Event,2024-02-04
+C0171_DUP,Tran Minh Loan,0314486448,"34 Nguyen Trai, P.2",Ho Chi Minh,Can Tho,Female,2012-03-22,VIP,HCM - Phu Nhuan,Partnership,2024-02-20
+C0175_DUP,Hoang Thanh Quyen,+84564388837,"184 Hai Ba Trung, P.15",Can Tho,TP.HCM,Male,2002-03-20,Retail,HCM - District 1,Event,2024-04-06
+C0046_DUP,Nguyen Anh Tu,0963666768,"80 Pham Van Dong, P.1",Hai Phong,Da Nang,Male,2000-08-14,Mass,Ha Noi - Hoan Kiem,Event,2024-07-08

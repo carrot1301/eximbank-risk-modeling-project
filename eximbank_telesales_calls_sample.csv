@@ -1,0 +1,284 @@
+call_id,customer_id,call_date,call_time,agent_id,call_duration_sec,call_result,sentiment,product_pitched,notes
+CL00001,C0003,2024-09-02,14:28,AG07,46,Busy,,Personal Loan,
+CL00002,C0003,2024-01-26,10:49,AG05,427,Registered Product,Negative,Savings Account,Customer agreed to open product.
+CL00003,C0004,2024-11-08,11:44,AG01,39,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00004,C0004,2024-09-20,19:50,AG07,490,Registered Product,Positive,Credit Card,Customer agreed to open product.
+CL00005,C0004,2024-04-01,09:01,AG07,36,Busy,,Term Deposit,
+CL00006,C0005,2024-12-07,10:24,AG06,594,Connected - Interested,Positive,Personal Loan,
+CL00007,C0005,2024-05-04,13:57,AG06,589,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00008,C0007,2024-06-18,13:14,AG03,58,Wrong Number,,Savings Account,Phone number incorrect.
+CL00009,C0007,2024-04-10,08:07,AG04,57,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00010,C0007,2024-04-17,12:38,AG06,8,Busy,,Personal Loan,
+CL00011,C0009,2024-12-15,10:54,AG04,44,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00012,C0009,2024-05-23,09:59,AG06,125,Registered Product,Positive,Term Deposit,Customer agreed to open product.
+CL00013,C0009,2024-05-26,08:55,AG04,23,Busy,,Savings Account,
+CL00014,C0010,2024-12-11,12:25,AG06,136,Connected - Not Interested,Negative,Personal Loan,Customer refused politely.
+CL00015,C0011,2024-05-06,16:11,AG02,77,Connected - Not Interested,Positive,Credit Card,Customer refused politely.
+CL00016,C0011,2024-01-01,09:31,AG01,58,Wrong Number,,Credit Card,Phone number incorrect.
+CL00017,C0012,2024-08-24,12:00,AG05,20,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00018,C0012,2024-07-10,12:21,AG07,33,No Answer,,Credit Card,
+CL00019,C0012,2024-03-16,17:15,AG05,55,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00020,C0013,2024-07-03,19:04,AG01,66,Connected - Not Interested,Positive,Personal Loan,Customer refused politely.
+CL00021,C0014,2024-08-25,11:04,AG02,223,Registered Product,Neutral,Personal Loan,Customer agreed to open product.
+CL00022,C0015,2024-12-06,14:35,AG06,37,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00023,C0016,2024-12-22,14:57,AG06,14,Busy,,Credit Card,
+CL00024,C0018,2024-10-16,11:30,AG02,14,Wrong Number,,Savings Account,Phone number incorrect.
+CL00025,C0018,2024-05-26,17:31,AG05,5,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00026,C0018,2024-01-04,15:15,AG01,277,Connected - Interested,Negative,Personal Loan,
+CL00027,C0019,2024-06-08,18:19,AG04,28,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00028,C0019,2024-06-26,10:59,AG01,37,No Answer,,Personal Loan,
+CL00029,C0019,2024-06-27,18:36,AG03,287,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00030,C0022,2024-11-25,18:43,AG05,33,Busy,,Term Deposit,
+CL00031,C0022,2024-01-12,09:50,AG03,54,Wrong Number,,Savings Account,Phone number incorrect.
+CL00032,C0022,2024-08-02,08:25,AG05,12,No Answer,,Credit Card,
+CL00033,C0023,2024-03-30,09:50,AG07,45,Busy,,Savings Account,
+CL00034,C0024,2024-11-09,12:49,AG03,49,Wrong Number,,Savings Account,Phone number incorrect.
+CL00035,C0024,2024-08-04,12:56,AG02,40,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00036,C0024,2024-12-22,16:23,AG01,39,No Answer,,Savings Account,
+CL00037,C0025,2024-02-05,09:48,AG07,115,Registered Product,Negative,Personal Loan,Customer agreed to open product.
+CL00038,C0025,2024-07-08,12:11,AG07,53,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00039,C0027,2024-08-04,10:40,AG01,34,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00040,C0027,2024-03-02,11:47,AG06,29,Busy,,Term Deposit,
+CL00041,C0029,2024-01-19,08:35,AG05,415,Registered Product,Positive,Personal Loan,Customer agreed to open product.
+CL00042,C0029,2024-08-20,10:11,AG07,284,Registered Product,Neutral,Term Deposit,Customer agreed to open product.
+CL00043,C0030,2024-07-24,11:18,AG05,51,Wrong Number,,Savings Account,Phone number incorrect.
+CL00044,C0030,2024-03-09,10:11,AG04,29,Busy,,Savings Account,
+CL00045,C0030,2024-02-22,14:15,AG05,43,No Answer,,Savings Account,
+CL00046,C0032,2024-07-04,14:13,AG02,35,Busy,,Credit Card,
+CL00047,C0034,2024-08-02,18:10,AG07,22,Call Back Later,,Credit Card,Customer asked to be called again next week.
+CL00048,C0034,2024-03-16,16:09,AG01,511,Registered Product,Neutral,Term Deposit,Customer agreed to open product.
+CL00049,C0036,2024-01-07,15:41,AG02,13,No Answer,,Savings Account,
+CL00050,C0037,2024-05-01,09:04,AG05,33,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00051,C0037,2024-12-04,15:47,AG01,384,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00052,C0038,2024-05-24,14:24,AG04,49,Busy,,Personal Loan,
+CL00053,C0039,2024-03-10,19:30,AG04,464,Connected - Interested,Negative,Credit Card,
+CL00054,C0039,2024-06-30,14:26,AG02,14,Busy,,Personal Loan,
+CL00055,C0039,2024-01-19,14:02,AG05,49,No Answer,,Credit Card,
+CL00056,C0040,2024-08-07,17:19,AG05,32,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00057,C0041,2024-12-26,14:00,AG05,406,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00058,C0041,2024-12-13,16:59,AG01,53,Busy,,Credit Card,
+CL00059,C0042,2024-04-26,13:57,AG05,575,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00060,C0042,2024-06-08,12:15,AG03,232,Registered Product,Neutral,Credit Card,Customer agreed to open product.
+CL00061,C0042,2024-09-08,12:35,AG03,246,Connected - Not Interested,Positive,Credit Card,Customer refused politely.
+CL00062,C0043,2024-02-16,16:48,AG07,545,Registered Product,Negative,Personal Loan,Customer agreed to open product.
+CL00063,C0043,2024-01-01,12:53,AG07,278,Connected - Not Interested,Positive,Savings Account,Customer refused politely.
+CL00064,C0043,2024-01-12,17:31,AG04,377,Connected - Interested,Negative,Term Deposit,
+CL00065,C0044,2024-06-04,12:07,AG04,32,Wrong Number,,Savings Account,Phone number incorrect.
+CL00066,C0044,2024-03-30,15:57,AG02,335,Registered Product,Negative,Savings Account,Customer agreed to open product.
+CL00067,C0044,2024-01-28,19:36,AG04,60,Registered Product,Neutral,Personal Loan,Customer agreed to open product.
+CL00068,C0045,2024-05-24,16:32,AG04,57,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00069,C0045,2024-08-07,10:05,AG03,22,Busy,,Personal Loan,
+CL00070,C0045,2024-09-12,12:46,AG02,29,Busy,,Credit Card,
+CL00071,C0046,2024-11-07,09:58,AG07,24,Registered Product,Negative,Personal Loan,Customer agreed to open product.
+CL00072,C0047,2024-10-15,13:00,AG07,22,Busy,,Credit Card,
+CL00073,C0047,2024-06-25,18:20,AG07,301,Registered Product,Negative,Credit Card,Customer agreed to open product.
+CL00074,C0047,2024-08-04,13:58,AG01,480,Connected - Interested,Negative,Term Deposit,
+CL00075,C0048,2024-04-14,10:00,AG07,25,Busy,,Savings Account,
+CL00076,C0049,2024-07-15,12:37,AG05,7,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00077,C0050,2024-02-22,12:09,AG03,14,Busy,,Credit Card,
+CL00078,C0050,2024-05-24,12:13,AG06,13,Busy,,Savings Account,
+CL00079,C0052,2024-06-21,11:00,AG02,53,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00080,C0052,2024-12-13,15:38,AG02,30,No Answer,,Savings Account,
+CL00081,C0053,2024-04-27,10:58,AG04,325,Connected - Interested,Negative,Credit Card,
+CL00082,C0055,2024-08-23,12:29,AG03,34,Busy,,Savings Account,
+CL00083,C0058,2024-09-11,14:14,AG05,41,No Answer,,Personal Loan,
+CL00084,C0058,2024-03-06,18:50,AG06,43,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00085,C0058,2024-07-10,19:33,AG02,325,Connected - Not Interested,Negative,Personal Loan,Customer refused politely.
+CL00086,C0059,2024-10-12,18:50,AG02,466,Connected - Not Interested,Neutral,Term Deposit,Customer refused politely.
+CL00087,C0060,2024-09-05,13:32,AG07,28,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00088,C0060,2024-01-30,14:41,AG01,55,No Answer,,Credit Card,
+CL00089,C0060,2024-05-12,11:09,AG02,21,Busy,,Term Deposit,
+CL00090,C0062,2024-12-05,15:04,AG06,565,Connected - Not Interested,Neutral,Personal Loan,Customer refused politely.
+CL00091,C0062,2024-02-22,09:12,AG03,47,No Answer,,Term Deposit,
+CL00092,C0062,2024-08-27,18:50,AG01,51,No Answer,,Term Deposit,
+CL00093,C0063,2024-07-01,18:53,AG04,539,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00094,C0063,2024-12-25,11:55,AG03,29,Wrong Number,,Credit Card,Phone number incorrect.
+CL00095,C0064,2024-07-13,18:28,AG02,80,Registered Product,Positive,Personal Loan,Customer agreed to open product.
+CL00096,C0064,2024-02-20,10:20,AG02,24,Registered Product,Positive,Term Deposit,Customer agreed to open product.
+CL00097,C0064,2024-04-01,17:21,AG06,424,Registered Product,Neutral,Credit Card,Customer agreed to open product.
+CL00098,C0068,2024-12-11,09:48,AG02,97,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00099,C0068,2024-10-27,18:08,AG01,30,Busy,,Savings Account,
+CL00100,C0068,2024-02-16,16:21,AG06,258,Connected - Not Interested,Neutral,Term Deposit,Customer refused politely.
+CL00101,C0069,2024-11-14,08:25,AG01,276,Connected - Not Interested,Negative,Personal Loan,Customer refused politely.
+CL00102,C0069,2024-12-20,11:14,AG07,322,Registered Product,Neutral,Personal Loan,Customer agreed to open product.
+CL00103,C0070,2024-08-01,17:27,AG06,27,No Answer,,Savings Account,
+CL00104,C0070,2024-08-03,09:44,AG06,30,Busy,,Savings Account,
+CL00105,C0070,2024-07-05,15:50,AG03,11,Call Back Later,,Credit Card,Customer asked to be called again next week.
+CL00106,C0071,2024-08-25,18:46,AG05,527,Connected - Interested,Positive,Personal Loan,
+CL00107,C0071,2024-09-30,17:37,AG03,39,Busy,,Savings Account,
+CL00108,C0072,2024-07-10,16:54,AG04,41,Busy,,Personal Loan,
+CL00109,C0072,2024-07-20,14:56,AG07,21,No Answer,,Personal Loan,
+CL00110,C0073,2024-05-05,19:24,AG05,21,No Answer,,Personal Loan,
+CL00111,C0074,2024-01-25,11:09,AG01,7,No Answer,,Savings Account,
+CL00112,C0074,2024-04-18,09:46,AG07,40,Busy,,Savings Account,
+CL00113,C0074,2024-02-03,15:39,AG04,53,No Answer,,Credit Card,
+CL00114,C0075,2024-02-11,16:36,AG04,10,Wrong Number,,Credit Card,Phone number incorrect.
+CL00115,C0075,2024-10-08,09:58,AG05,334,Registered Product,Neutral,Personal Loan,Customer agreed to open product.
+CL00116,C0076,2024-08-16,16:32,AG06,57,No Answer,,Term Deposit,
+CL00117,C0078,2024-03-10,14:47,AG06,535,Registered Product,Negative,Term Deposit,Customer agreed to open product.
+CL00118,C0079,2024-11-13,15:54,AG07,156,Connected - Interested,Neutral,Personal Loan,
+CL00119,C0079,2024-08-30,15:36,AG07,40,Busy,,Credit Card,
+CL00120,C0080,2024-11-17,11:27,AG04,94,Registered Product,Positive,Personal Loan,Customer agreed to open product.
+CL00121,C0081,2024-05-13,13:48,AG06,34,Busy,,Term Deposit,
+CL00122,C0081,2024-03-02,16:01,AG02,411,Registered Product,Positive,Savings Account,Customer agreed to open product.
+CL00123,C0082,2024-06-21,19:04,AG02,345,Connected - Not Interested,Neutral,Credit Card,Customer refused politely.
+CL00124,C0082,2024-04-27,11:18,AG01,24,No Answer,,Personal Loan,
+CL00125,C0083,2024-04-22,19:46,AG02,5,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00126,C0083,2024-05-21,13:36,AG07,15,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00127,C0083,2024-12-21,18:02,AG06,37,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00128,C0084,2024-01-10,12:22,AG04,14,No Answer,,Term Deposit,
+CL00129,C0085,2024-01-13,15:01,AG07,340,Registered Product,Neutral,Term Deposit,Customer agreed to open product.
+CL00130,C0090,2024-02-07,14:34,AG07,34,Busy,,Credit Card,
+CL00131,C0090,2024-10-31,12:59,AG02,255,Connected - Not Interested,Positive,Credit Card,Customer refused politely.
+CL00132,C0091,2024-05-16,09:11,AG03,39,Call Back Later,,Credit Card,Customer asked to be called again next week.
+CL00133,C0093,2024-11-15,13:59,AG03,33,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00134,C0093,2024-12-26,12:13,AG03,34,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00135,C0093,2024-07-31,12:04,AG06,398,Connected - Not Interested,Positive,Term Deposit,Customer refused politely.
+CL00136,C0094,2024-03-02,11:24,AG01,61,Connected - Interested,Positive,Savings Account,
+CL00137,C0095,2024-10-22,15:38,AG06,44,Busy,,Savings Account,
+CL00138,C0096,2024-06-27,13:32,AG07,42,Connected - Interested,Neutral,Savings Account,
+CL00139,C0096,2024-05-22,08:24,AG01,164,Connected - Interested,Neutral,Credit Card,
+CL00140,C0096,2024-11-04,15:39,AG03,58,Connected - Interested,Negative,Term Deposit,
+CL00141,C0097,2024-05-13,10:06,AG02,55,No Answer,,Credit Card,
+CL00142,C0098,2024-01-15,08:51,AG07,497,Connected - Not Interested,Negative,Personal Loan,Customer refused politely.
+CL00143,C0098,2024-06-05,13:56,AG05,37,Busy,,Credit Card,
+CL00144,C0098,2024-10-15,11:21,AG05,541,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00145,C0099,2024-11-25,08:53,AG07,178,Connected - Interested,Positive,Personal Loan,
+CL00146,C0099,2024-08-15,15:51,AG05,34,Registered Product,Neutral,Term Deposit,Customer agreed to open product.
+CL00147,C0100,2024-09-17,11:11,AG02,49,Busy,,Personal Loan,
+CL00148,C0100,2024-04-04,10:50,AG04,40,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00149,C0100,2024-10-08,18:26,AG04,88,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00150,C0101,2024-09-10,17:39,AG06,42,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00151,C0101,2024-07-18,14:46,AG06,30,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00152,C0102,2024-08-05,15:17,AG01,29,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00153,C0102,2024-04-20,15:59,AG04,47,No Answer,,Term Deposit,
+CL00154,C0103,2024-12-21,11:04,AG07,41,Wrong Number,,Credit Card,Phone number incorrect.
+CL00155,C0103,2024-04-15,08:27,AG01,397,Registered Product,Positive,Term Deposit,Customer agreed to open product.
+CL00156,C0103,2024-02-20,15:40,AG03,26,No Answer,,Personal Loan,
+CL00157,C0104,2024-09-13,12:20,AG06,30,Busy,,Personal Loan,
+CL00158,C0104,2024-06-30,14:56,AG07,20,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00159,C0105,2024-02-24,10:39,AG01,450,Connected - Interested,Negative,Credit Card,
+CL00160,C0108,2024-11-08,12:25,AG03,45,No Answer,,Personal Loan,
+CL00161,C0109,2024-08-31,16:25,AG06,15,Busy,,Savings Account,
+CL00162,C0109,2024-07-28,18:33,AG01,31,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00163,C0110,2024-12-29,18:50,AG01,201,Registered Product,Neutral,Personal Loan,Customer agreed to open product.
+CL00164,C0110,2024-06-28,13:52,AG01,180,Connected - Interested,Neutral,Personal Loan,
+CL00165,C0110,2024-10-11,18:21,AG04,30,Wrong Number,,Credit Card,Phone number incorrect.
+CL00166,C0111,2024-02-18,14:16,AG01,103,Registered Product,Positive,Personal Loan,Customer agreed to open product.
+CL00167,C0113,2024-04-27,13:27,AG05,82,Connected - Not Interested,Neutral,Term Deposit,Customer refused politely.
+CL00168,C0113,2024-12-25,08:06,AG05,5,Busy,,Credit Card,
+CL00169,C0113,2024-08-02,10:58,AG06,337,Connected - Not Interested,Negative,Term Deposit,Customer refused politely.
+CL00170,C0118,2024-05-23,15:18,AG01,37,Registered Product,Neutral,Credit Card,Customer agreed to open product.
+CL00171,C0119,2024-06-23,09:01,AG04,58,No Answer,,Savings Account,
+CL00172,C0121,2024-08-09,13:50,AG01,8,Busy,,Credit Card,
+CL00173,C0122,2024-02-24,14:02,AG02,36,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00174,C0122,2024-06-10,19:32,AG07,27,No Answer,,Personal Loan,
+CL00175,C0122,2024-10-14,09:06,AG01,33,Busy,,Credit Card,
+CL00176,C0124,2024-11-18,15:22,AG07,462,Registered Product,Positive,Credit Card,Customer agreed to open product.
+CL00177,C0124,2024-11-23,13:56,AG05,258,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00178,C0125,2024-02-20,08:27,AG02,51,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00179,C0125,2024-10-17,15:13,AG06,36,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00180,C0126,2024-06-13,13:20,AG07,18,No Answer,,Term Deposit,
+CL00181,C0126,2024-11-06,09:06,AG07,349,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00182,C0128,2024-03-25,10:47,AG03,400,Connected - Not Interested,Positive,Savings Account,Customer refused politely.
+CL00183,C0128,2024-02-05,19:17,AG01,533,Connected - Not Interested,Positive,Personal Loan,Customer refused politely.
+CL00184,C0129,2024-07-15,11:10,AG07,46,No Answer,,Credit Card,
+CL00185,C0129,2024-07-13,14:54,AG04,16,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00186,C0132,2024-09-12,16:33,AG04,57,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00187,C0133,2024-12-07,19:23,AG03,177,Connected - Not Interested,Positive,Credit Card,Customer refused politely.
+CL00188,C0133,2024-08-02,08:49,AG01,134,Connected - Interested,Neutral,Credit Card,
+CL00189,C0134,2024-01-09,15:01,AG01,49,No Answer,,Term Deposit,
+CL00190,C0135,2024-07-19,13:21,AG06,47,No Answer,,Term Deposit,
+CL00191,C0135,2024-01-04,17:57,AG05,33,No Answer,,Term Deposit,
+CL00192,C0136,2024-08-02,12:10,AG02,10,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00193,C0137,2024-12-06,17:35,AG06,45,No Answer,,Savings Account,
+CL00194,C0137,2024-02-03,08:36,AG06,172,Registered Product,Positive,Savings Account,Customer agreed to open product.
+CL00195,C0137,2024-03-16,14:52,AG06,46,No Answer,,Term Deposit,
+CL00196,C0139,2024-11-08,13:26,AG02,187,Connected - Interested,Negative,Term Deposit,
+CL00197,C0139,2024-09-24,16:52,AG02,474,Connected - Not Interested,Positive,Personal Loan,Customer refused politely.
+CL00198,C0142,2024-07-08,17:45,AG02,595,Registered Product,Neutral,Savings Account,Customer agreed to open product.
+CL00199,C0143,2024-11-05,18:00,AG03,311,Connected - Interested,Negative,Credit Card,
+CL00200,C0143,2024-10-08,12:10,AG03,44,Busy,,Term Deposit,
+CL00201,C0143,2024-06-12,08:58,AG06,246,Connected - Not Interested,Negative,Savings Account,Customer refused politely.
+CL00202,C0144,2024-02-24,15:53,AG05,425,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00203,C0145,2024-10-15,17:35,AG04,51,Wrong Number,,Credit Card,Phone number incorrect.
+CL00204,C0145,2024-08-14,11:42,AG06,21,Busy,,Term Deposit,
+CL00205,C0145,2024-12-30,18:33,AG02,13,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00206,C0146,2024-03-13,16:39,AG01,21,No Answer,,Credit Card,
+CL00207,C0149,2024-04-13,17:24,AG03,43,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00208,C0149,2024-05-10,09:36,AG04,48,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00209,C0150,2024-04-11,09:11,AG05,23,No Answer,,Term Deposit,
+CL00210,C0150,2024-02-13,18:58,AG05,53,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00211,C0152,2024-02-26,14:48,AG06,31,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00212,C0153,2024-08-03,10:07,AG07,100,Registered Product,Negative,Credit Card,Customer agreed to open product.
+CL00213,C0153,2024-07-16,15:24,AG01,485,Connected - Interested,Positive,Term Deposit,
+CL00214,C0153,2024-09-24,18:25,AG05,45,No Answer,,Savings Account,
+CL00215,C0154,2024-02-16,17:15,AG07,420,Connected - Not Interested,Neutral,Savings Account,Customer refused politely.
+CL00216,C0155,2024-03-26,17:06,AG07,18,Busy,,Credit Card,
+CL00217,C0157,2024-05-16,10:47,AG03,517,Connected - Interested,Positive,Term Deposit,
+CL00218,C0157,2024-08-02,09:30,AG04,34,Call Back Later,,Credit Card,Customer asked to be called again next week.
+CL00219,C0158,2024-04-12,08:13,AG03,35,No Answer,,Savings Account,
+CL00220,C0158,2024-04-17,19:44,AG03,117,Connected - Not Interested,Positive,Term Deposit,Customer refused politely.
+CL00221,C0160,2024-07-01,14:43,AG07,58,Connected - Interested,Negative,Personal Loan,
+CL00222,C0160,2024-01-04,13:24,AG02,416,Registered Product,Negative,Savings Account,Customer agreed to open product.
+CL00223,C0162,2024-04-17,09:54,AG02,189,Connected - Interested,Neutral,Credit Card,
+CL00224,C0162,2024-09-07,14:12,AG02,17,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00225,C0162,2024-04-05,10:58,AG06,58,Connected - Not Interested,Neutral,Credit Card,Customer refused politely.
+CL00226,C0163,2024-01-29,08:28,AG04,57,No Answer,,Personal Loan,
+CL00227,C0163,2024-07-03,15:43,AG01,258,Registered Product,Neutral,Credit Card,Customer agreed to open product.
+CL00228,C0163,2024-09-22,16:38,AG05,359,Connected - Interested,Negative,Term Deposit,
+CL00229,C0165,2024-06-25,10:44,AG06,18,No Answer,,Credit Card,
+CL00230,C0166,2024-11-19,09:36,AG01,29,No Answer,,Savings Account,
+CL00231,C0168,2024-03-13,08:56,AG04,28,Busy,,Term Deposit,
+CL00232,C0169,2024-07-05,17:36,AG03,41,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00233,C0169,2024-07-16,14:55,AG03,50,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00234,C0169,2024-03-02,09:24,AG04,583,Connected - Not Interested,Negative,Credit Card,Customer refused politely.
+CL00235,C0170,2024-03-12,11:28,AG05,58,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00236,C0170,2024-08-30,17:42,AG01,38,No Answer,,Term Deposit,
+CL00237,C0171,2024-08-28,17:02,AG05,10,No Answer,,Credit Card,
+CL00238,C0173,2024-02-16,14:48,AG03,540,Connected - Interested,Negative,Credit Card,
+CL00239,C0174,2024-08-28,18:41,AG02,39,Busy,,Personal Loan,
+CL00240,C0174,2024-12-03,08:23,AG03,22,Registered Product,Neutral,Personal Loan,Customer agreed to open product.
+CL00241,C0174,2024-09-25,15:46,AG01,29,Busy,,Savings Account,
+CL00242,C0175,2024-12-22,09:10,AG03,342,Registered Product,Negative,Term Deposit,Customer agreed to open product.
+CL00243,C0175,2024-01-29,16:02,AG02,29,Call Back Later,,Credit Card,Customer asked to be called again next week.
+CL00244,C0175,2024-11-27,17:08,AG01,482,Connected - Interested,Negative,Personal Loan,
+CL00245,C0177,2024-08-13,15:59,AG03,57,Registered Product,Negative,Credit Card,Customer agreed to open product.
+CL00246,C0177,2024-06-24,17:17,AG05,10,No Answer,,Savings Account,
+CL00247,C0178,2024-06-24,19:04,AG01,17,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00248,C0178,2024-04-23,15:44,AG06,243,Connected - Not Interested,Negative,Term Deposit,Customer refused politely.
+CL00249,C0178,2024-12-14,10:57,AG02,342,Registered Product,Negative,Credit Card,Customer agreed to open product.
+CL00250,C0179,2024-12-12,08:05,AG03,28,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00251,C0179,2024-12-01,15:27,AG03,37,No Answer,,Term Deposit,
+CL00252,C0179,2024-02-28,16:12,AG05,47,Call Back Later,,Personal Loan,Customer asked to be called again next week.
+CL00253,C0182,2024-12-21,18:37,AG05,26,Connected - Interested,Positive,Savings Account,
+CL00254,C0183,2024-02-14,17:56,AG07,50,Connected - Interested,Positive,Credit Card,
+CL00255,C0183,2024-06-08,18:52,AG07,570,Registered Product,Positive,Credit Card,Customer agreed to open product.
+CL00256,C0184,2024-12-21,09:13,AG07,543,Connected - Interested,Neutral,Credit Card,
+CL00257,C0185,2024-08-11,18:48,AG01,252,Connected - Interested,Positive,Term Deposit,
+CL00258,C0186,2024-08-10,09:59,AG05,28,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00259,C0186,2024-06-11,13:18,AG07,34,Wrong Number,,Personal Loan,Phone number incorrect.
+CL00260,C0186,2024-03-14,16:31,AG04,431,Connected - Interested,Neutral,Credit Card,
+CL00261,C0187,2024-08-09,12:28,AG04,26,Wrong Number,,Savings Account,Phone number incorrect.
+CL00262,C0187,2024-12-17,11:49,AG03,343,Connected - Interested,Positive,Term Deposit,
+CL00263,C0188,2024-01-17,19:21,AG02,420,Registered Product,Positive,Term Deposit,Customer agreed to open product.
+CL00264,C0188,2024-07-11,13:25,AG03,139,Registered Product,Negative,Savings Account,Customer agreed to open product.
+CL00265,C0188,2024-07-28,09:13,AG05,51,No Answer,,Term Deposit,
+CL00266,C0189,2024-06-12,18:34,AG04,400,Registered Product,Neutral,Savings Account,Customer agreed to open product.
+CL00267,C0189,2024-01-07,18:32,AG03,98,Registered Product,Negative,Personal Loan,Customer agreed to open product.
+CL00268,C0189,2024-02-27,14:25,AG06,38,Wrong Number,,Savings Account,Phone number incorrect.
+CL00269,C0190,2024-10-11,11:16,AG05,39,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00270,C0192,2024-09-27,14:28,AG03,176,Registered Product,Neutral,Savings Account,Customer agreed to open product.
+CL00271,C0192,2024-10-14,09:46,AG06,103,Connected - Not Interested,Negative,Savings Account,Customer refused politely.
+CL00272,C0193,2024-01-27,10:16,AG04,401,Connected - Interested,Negative,Credit Card,
+CL00273,C0193,2024-04-01,12:46,AG05,20,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00274,C0194,2024-03-24,13:18,AG03,472,Connected - Not Interested,Positive,Credit Card,Customer refused politely.
+CL00275,C0194,2024-09-13,17:59,AG07,42,Wrong Number,,Credit Card,Phone number incorrect.
+CL00276,C0195,2024-06-11,08:24,AG04,28,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00277,C0196,2024-09-27,19:15,AG04,31,Call Back Later,,Savings Account,Customer asked to be called again next week.
+CL00278,C0197,2024-05-24,12:07,AG06,46,Registered Product,Negative,Personal Loan,Customer agreed to open product.
+CL00279,C0198,2024-07-17,10:28,AG05,48,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00280,C0199,2024-11-11,17:02,AG06,24,Call Back Later,,Term Deposit,Customer asked to be called again next week.
+CL00281,C0199,2024-01-15,16:29,AG07,225,Connected - Interested,Positive,Credit Card,
+CL00282,C0199,2024-09-29,19:19,AG01,40,Wrong Number,,Term Deposit,Phone number incorrect.
+CL00283,C0200,2024-11-14,13:53,AG05,57,Wrong Number,,Personal Loan,Phone number incorrect.

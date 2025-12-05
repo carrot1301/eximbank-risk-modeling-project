@@ -3,8 +3,6 @@
 ## 📄 Giới thiệu (Overview)
 Dự án này tập trung vào việc phân tích dữ liệu khách hàng và hiệu quả của hoạt động Telesales tại Eximbank. Mục tiêu chính là tìm ra các insight về hành vi khách hàng, tỷ lệ chuyển đổi cuộc gọi và đề xuất các giải pháp tối ưu hóa quy trình chăm sóc khách hàng.
 
-*(Bạn có thể sửa đoạn này để mô tả cụ thể hơn mục tiêu đồ án/bài tập của bạn)*
-
 ## 📂 Cấu trúc Dự án (Project Structure)
 
 Dự án bao gồm các thành phần chính sau:
@@ -42,5 +40,5 @@ Dự án này được thực hiện cho mục đích **học tập và nghiên 
 * Mọi sự trùng hợp về tên hoặc thông tin cá nhân (nếu có) chỉ là ngẫu nhiên.
 
 ---
-**Author:**Doan Nguyen Tri
+**Author:**Đoàn Nguyên Trí
 **Contact:** doantri12343@gmail.com
